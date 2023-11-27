@@ -1,0 +1,4 @@
+#Mon Oct 30 17:16:11 IST 2023
+base.0=/Users/princesaini/FlutterProjects/prashant_food/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
